@@ -1,0 +1,26 @@
+*, *::before, *::after {
+    box-sizing: border-box;
+}
+
+
+.card1 {
+    width: 200px;
+    padding: 10px;
+    margin: 10px;
+    border: 2px solid #333;
+    background-color: #fafafa;
+    display: inline-block;
+    vertical-align: top;
+}
+
+.card2 {
+    width: 200px;
+    padding: 30px;
+    margin: 10px;
+    margin-left: -30px;
+    border: 10px solid #333;
+    background-color: #fafafa;
+    display: inline-block;
+    vertical-align: top;
+}
+
